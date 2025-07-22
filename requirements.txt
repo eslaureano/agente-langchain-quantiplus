@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+openai
+heyoo
+pygsheets
+pathlib
+langchain
+langchain-openai
+pandas
+email-validator
