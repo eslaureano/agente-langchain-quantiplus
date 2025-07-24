@@ -24,11 +24,11 @@ Este proyecto implementa un asistente conversacional utilizando LangChain, Strea
 
 ## ⚙️ Explicación funcional de la arquitectura
 
-1. **Streamlit** actúa como interfaz web para la interacción con el usuario.
-2. **LangChain** permite estructurar el comportamiento del agente y gestionar herramientas.
-3. **Tools personalizadas**: se encargan del registro en Google Sheets (`registrar_google_sheets`) y del envío de correos (`enviar_correo`).
-4. **Google Sheets** funciona como base de datos ligera de leads.
-5. **Gmail SMTP** permite el envío automático de correos de seguimiento.
+1. **Streamlit:** Actúa como interfaz web para la interacción con el usuario.
+2. **LangChain:** Permite estructurar el comportamiento del agente y gestionar herramientas.
+3. **Tools personalizadas:** Se encargan del registro en Google Sheets (`registrar_google_sheets`) y del envío de correos (`enviar_correo`).
+4. **Google Sheets:** Funciona como base de datos ligera de leads.
+5. **Gmail SMTP:** Permite el envío automático de correos de seguimiento.
 
 ---
 
@@ -38,13 +38,9 @@ Este proyecto implementa un asistente conversacional utilizando LangChain, Strea
 ├── app.py # Interfaz Streamlit y ejecución del agente
 ├── tools.py # Herramientas personalizadas para LangChain
 ├── requirements.txt # Dependencias del proyecto
-├── .env # Variables de entorno (no subir)
 ├── image/
 │ ├── Logo_quantiplus.png
 │ ├── bot_icon.png
 │ ├── user_icon.png
 │ └── arquitectura.png
 
-yaml
-Copiar
-Editar
