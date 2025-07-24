@@ -10,7 +10,7 @@ Este proyecto implementa un asistente conversacional utilizando LangChain, Strea
 - Envío de correos personalizados con la información del curso.
 - Consulta de la próxima fecha de inicio de los cursos.
 - Interfaz de chat web tipo asistente.
-- Uso de herramientas (`@tool`) integradas mediante LangChain.
+- Uso de herramientas (`@tool`),chain, prompt template integradas mediante LangChain.
 - Comunicación vía Google Sheets y Gmail.
 
 ---
