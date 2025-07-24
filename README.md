@@ -44,6 +44,8 @@ Este proyecto implementa un asistente conversacional utilizando LangChain, Strea
 │ ├── user_icon.png
 │ └── arquitectura.png
 
-## 🛠 Estructura del repositorio para instalación local
+---
+
+## 🛠 Clona el repositorio para instalación local
 git clone https://github.com/eslaureano/agente-langchain-quantiplus.git
 
