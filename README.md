@@ -17,7 +17,8 @@ Este proyecto implementa un asistente conversacional utilizando LangChain, Strea
 
 ## 🧭 Diagrama de Arquitectura
 
-![Diagrama de arquitectura](image/arquitectura.png)
+<img width="631" height="390" alt="image" src="https://github.com/user-attachments/assets/82d8f96a-ef80-4672-9746-8d4bd7232ae7" />
+
 
 ---
 
